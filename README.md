@@ -2,9 +2,10 @@
 
 Esta carpeta contiene los archivos de datos utilizados en el análisis sobre la calidad de vida en diferentes países.
 
-## 🗂️ Archivos
-- `dataset.xlsx` → Datos procesados y listos para el análisis en Power BI.
-- `dataset_original.xlsx` → Datos sin procesar obtenidos de Kaggle.
+## 🗂️ Estructura del Proyecto
+- 📁 [`data/`](data/) → Contiene los datos utilizados en el análisis.
+- 📁 [`reports/`](reports/) → Contiene el archivo `.pbix` con el dashboard en Power BI.
+- 📁 [`images/`](images/) → Capturas de pantalla del dashboard en acción
 
 ## 📥 Fuente de Datos
 Los datos fueron obtenidos de **Kaggle**, específicamente del dataset sobre calidad de vida a nivel mundial.  
